@@ -12,7 +12,7 @@ Project DKAN retrospectives are held monthly (fourth Fridays).
 
 ## Agenda
 
-* Review metrics (Google Analytics, MailChimp, Medium, Social, Slack)
+* Review metrics ([Google Analytics](https://analytics.google.com), [MailChimp](https://mailchimp.com), [Medium](https://medium.com/me/stats), [Slack](https://dkan.slack.com/admin/stats), Social
 * Retrospective
 
 ## Board
