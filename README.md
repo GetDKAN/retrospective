@@ -8,12 +8,7 @@ This is the Project DKAN retrospective repo where we evaluate:
 
 ## Frequency
 
-Project DKAN retrospectives are held monthly (fourth Fridays).
-
-## Agenda
-
-* Review metrics ([Google Analytics](https://analytics.google.com), [MailChimp](https://mailchimp.com), [Medium](https://medium.com/me/stats), [Slack](https://dkan.slack.com/admin/stats), Social)
-* Retrospective
+Project DKAN retrospectives are held monthly on the fourth Friday.
 
 ## Board
 
